@@ -1,7 +1,7 @@
 # Hi, I'm Jamie 👋
 
-👨🏻‍💻 Data Analyst <br />
-👨🏻‍🎓 Studied Full-Stack Software Development at [Code Instittute](https://codeinstitute.net/?_gl=1%2Advtlzt%2A_up%2AMQ..&gclid=CjwKCAjw0aS3BhA3EiwAKaD2ZQzgwVuM21hvp46rl0es5UvQhikWz3WUkByjS__7yziI4Hoc-AcWoRoCF2cQAvD_BwE) in 2024.<br />
+👨🏻‍💻 Junior Data Analyst & Software Engineer<br />
+👨🏻‍🎓 Studied Full-Stack Software Development at [Code Institute](https://codeinstitute.net/?_gl=1%2Advtlzt%2A_up%2AMQ..&gclid=CjwKCAjw0aS3BhA3EiwAKaD2ZQzgwVuM21hvp46rl0es5UvQhikWz3WUkByjS__7yziI4Hoc-AcWoRoCF2cQAvD_BwE) in 2024.<br />
 🤖 Studying Data Analytics at [Digital Futures](https://digitalfutures.com/) in 2025.<br />
 📍 Based in Bristol, United Kingdom. <br />
 
